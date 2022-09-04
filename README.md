@@ -24,4 +24,4 @@ My name is William but you can call me "Geoff".  I am completing my BS in Comput
 
 2. I like to keep my skills sharp with competitive programming via Code Wars and Hacker Rank as well as building small projects from scratch, for fun.  
 
-3. Learning never stops and while I continue to practice and apply my current skills, I look forward to plotting out technologies and additional skills I need to learn for the future.  
+3. Learning never stops and while I continue to practice and apply my current skills, I look forward to plotting out a path for technologies and additional skills I need to learn for the future.  
