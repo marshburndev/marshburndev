@@ -20,7 +20,7 @@ My name is William but you can call me "Geoff".  I am completing my BS in Comput
 
 ### What am I doing? 
 
-1. Aside from working a full-time job, I am currently learning AI and ML as well as Cloud Computing and migrating applications to AWS.  
+1. Aside from working a full-time job, my school work this term currently consists of learning AI and ML as well as Cloud Computing and migrating applications to AWS.  
 
 2. I like to keep my skills sharp with competitive programming via Code Wars and Hacker Rank as well as building small projects from scratch, for fun.  
 
